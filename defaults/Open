@@ -1,0 +1,13 @@
+Display name
+Name=Now-dns.com
+TargetHost=1
+Version=1
+CLSID={BA878DA4-9A33-419F-A041-20606CD555D0}
+Home=https://now-dns.com/
+Signup=https://now-dns.com/?p=register
+; Same update protocol as dyndns.org / dyndns2
+SameAs={C156D29C-D035-4121-83E0-AC8325069B68}
+Detection=https://now-dns.com/ip
+
+[Update]
+Server=now-dns.com
